@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b13cc834-1677-4d68-88dc-70647790ee6c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="constants.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/config/constants.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="381" column="58" lean-forward="true" selection-start-line="381" selection-start-column="58" selection-end-line="381" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/frontend/Login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="139" column="42" lean-forward="false" selection-start-line="139" selection-start-column="32" selection-end-line="139" selection-end-column="42" />
+              <folding>
+                <marker date="1522904208000" expanded="false" signature="4383:4396" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tutor-details.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/backend/users/tutor-details.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="106" column="96" lean-forward="true" selection-start-line="106" selection-start-column="96" selection-end-line="106" selection-end-column="96" />
+              <folding>
+                <marker date="1524911802993" expanded="true" signature="8706:8915" ph="..." />
+                <marker date="1524911802993" expanded="true" signature="8729:8915" ph="..." />
+                <marker date="1524911802993" expanded="true" signature="9119:9303" ph="..." />
+                <marker date="1524911802993" expanded="true" signature="11124:11333" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="student-details.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/backend/users/student-details.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="38" column="131" lean-forward="false" selection-start-line="38" selection-start-column="131" selection-end-line="38" selection-end-column="131" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/backend/Login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+              <folding>
+                <marker date="1524919105994" expanded="false" signature="4497:4510" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Users.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/controllers/backend/Users.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="298" column="17" lean-forward="true" selection-start-line="298" selection-start-column="17" selection-end-line="298" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User_model.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/backend/User_model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="439">
+              <caret line="243" column="0" lean-forward="false" selection-start-line="243" selection-start-column="0" selection-end-line="243" selection-end-column="0" />
+              <folding>
+                <marker date="1524918982984" expanded="true" signature="270:403" ph="SELECT users... users" />
+                <marker date="1524918982984" expanded="true" signature="515:878" ph="SELECT users... users" />
+                <marker date="1524918982984" expanded="true" signature="992:1105" ph="SELECT * FRO... users" />
+                <marker date="1524918982984" expanded="true" signature="1303:1481" ph="SELECT users... users" />
+                <marker date="1524918982984" expanded="true" signature="1612:1815" ph="SELECT tutor... tutor_details" />
+                <marker date="1524918982984" expanded="true" signature="1934:2006" ph="SELECT * FRO... levels" />
+                <marker date="1524918982984" expanded="true" signature="2143:2241" ph="SELECT * FRO... levels" />
+                <marker date="1524918982984" expanded="true" signature="2380:2465" ph="SELECT * FRO... admin" />
+                <marker date="1524918982984" expanded="true" signature="2600:2687" ph="SELECT COUNT... users" />
+                <marker date="1524918982984" expanded="true" signature="2820:2858" ph="SELECT * FRO... settings" />
+                <marker date="1524918982984" expanded="true" signature="3004:3042" ph="SELECT * FRO... settings" />
+                <marker date="1524918982984" expanded="true" signature="3171:3281" ph="SELECT * FRO... badges" />
+                <marker date="1524918982984" expanded="true" signature="3430:3795" ph="SELECT stude... student_subjects" />
+                <marker date="1524918982984" expanded="true" signature="4115:4314" ph="SELECT stude... student_subjects" />
+                <marker date="1524918982984" expanded="true" signature="4470:4821" ph="SELECT tutor... tutor_subjects" />
+                <marker date="1524918982984" expanded="true" signature="5182:5371" ph="SELECT tutor... tutor_subjects" />
+                <marker date="1524918982984" expanded="true" signature="5664:5896" ph="SELECT * FRO... users" />
+                <marker date="1524918982984" expanded="true" signature="6036:6387" ph="SELECT tutor... tutor_subjects" />
+                <marker date="1524918982984" expanded="true" signature="6707:6896" ph="SELECT tutor... tutor_subjects" />
+                <marker date="1524918982984" expanded="true" signature="7169:7401" ph="UPDATE admin... " />
+                <marker date="1524918982984" expanded="true" signature="7515:7632" ph="UPDATE admin... " />
+                <marker date="1524918982984" expanded="true" signature="7739:7851" ph="SELECT * FRO... tutor_payment_details" />
+                <marker date="1524918982984" expanded="true" signature="7994:8098" ph="SELECT * FRO... tutor_badges" />
+                <marker date="1524918982984" expanded="true" signature="8409:8527" ph="UPDATE users... " />
+                <marker date="1524918982984" expanded="true" signature="8631:8751" ph="UPDATE users... " />
+                <marker date="1524918982984" expanded="true" signature="8882:9002" ph="UPDATE users... " />
+                <marker date="1524918982984" expanded="true" signature="9131:9264" ph="UPDATE tutor... " />
+                <marker date="1524918982984" expanded="true" signature="9397:9439" ph="DELETE FROM " />
+                <marker date="1524918982984" expanded="true" signature="9572:9696" ph="INSERT INTO tutor_badges" />
+                <marker date="1524918982984" expanded="true" signature="9831:9937" ph="UPDATE setti... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User_model.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/frontend/User_model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="66" column="4" lean-forward="true" selection-start-line="55" selection-start-column="4" selection-end-line="66" selection-end-column="4" />
+              <folding>
+                <marker date="1522719236000" expanded="true" signature="411:506" ph="SELECT id,em... users" />
+                <marker date="1522719236000" expanded="true" signature="696:785" ph="SELECT * FRO... users" />
+                <marker date="1522719236000" expanded="true" signature="988:1160" ph="SELECT users... users" />
+                <marker date="1522719236000" expanded="true" signature="1316:1548" ph="SELECT * FRO... users" />
+                <marker date="1522719236000" expanded="true" signature="2179:2285" ph="SELECT id,em... users" />
+                <marker date="1522719236000" expanded="true" signature="2492:2868" ph="INSERT INTO users" />
+                <marker date="1522719236000" expanded="true" signature="2982:3112" ph="UPDATE users... " />
+                <marker date="1522719236000" expanded="true" signature="3288:3392" ph="SELECT * FRO... tutor_badges" />
+                <marker date="1522719236000" expanded="true" signature="3666:3776" ph="SELECT * FRO... badges" />
+                <marker date="1522719236000" expanded="true" signature="4125:4526" ph="INSERT INTO users" />
+                <marker date="1522719236000" expanded="true" signature="4840:4931" ph="UPDATE users... " />
+                <marker date="1522719236000" expanded="true" signature="5092:5188" ph="SELECT * FRO... users" />
+                <marker date="1522719236000" expanded="true" signature="5355:5461" ph="SELECT email... users" />
+                <marker date="1522719236000" expanded="true" signature="5619:5739" ph="UPDATE users... " />
+                <marker date="1522719236000" expanded="true" signature="5854:5923" ph="SELECT email... admin" />
+                <marker date="1522719236000" expanded="true" signature="6104:6166" ph="SELECT * FRO... countries" />
+                <marker date="1522719236000" expanded="true" signature="6283:6322" ph="SELECT * FRO... languages" />
+                <marker date="1522719236000" expanded="true" signature="6516:6612" ph="UPDATE users... " />
+                <marker date="1522719236000" expanded="true" signature="6724:6839" ph="SELECT COUNT... lessons" />
+                <marker date="1522719236000" expanded="true" signature="7006:7124" ph="SELECT AVG(r... reviews" />
+                <marker date="1522719236000" expanded="true" signature="7323:7401" ph="SELECT * FRO... levels" />
+                <marker date="1522719236000" expanded="true" signature="7554:7675" ph="UPDATE tutor... " />
+                <marker date="1522719236000" expanded="true" signature="7740:7847" ph="INSERT INTO tutor_level" />
+                <marker date="1522719236000" expanded="true" signature="8711:8820" ph="SELECT * FRO... student_subjects" />
+                <marker date="1522719236000" expanded="true" signature="9506:9612" ph="SELECT name main_subjects" />
+                <marker date="1522719236000" expanded="true" signature="9823:9861" ph="SELECT * FRO... settings" />
+                <marker date="1522719236000" expanded="true" signature="10007:10045" ph="SELECT * FRO... settings" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Backendcommon.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Backendcommon.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1955">
+              <caret line="193" column="17" lean-forward="true" selection-start-line="193" selection-start-column="17" selection-end-line="193" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/backend/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="267" column="38" lean-forward="false" selection-start-line="267" selection-start-column="38" selection-end-line="267" selection-end-column="38" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <marker date="1524911878453" expanded="true" signature="22788:22816" ph="..." />
+                <marker date="1524911878453" expanded="true" signature="23084:23096" ph="..." />
+                <marker date="1524911878453" expanded="true" signature="23201:23210" ph="..." />
+                <marker date="1524911878453" expanded="true" signature="26885:26894" ph="..." />
+                <marker date="1524911878453" expanded="true" signature="28259:28268" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>first_name</find>
+      <find>tutor-details</find>
+      <find>Route_T</find>
+      <find>ACCESS_TYPE_FULL</find>
+      <find>ROUTE_STUDENT_PROFILE</find>
+      <find>tutor-profile</find>
+      <find>tutorDetails</find>
+      <find>registerByEmail</find>
+      <find>$tutor</find>
+      <find>loginByEmail</find>
+      <find>become-</find>
+      <find>tutorprofile</find>
+      <find>ACCESS_TYPE</find>
+      <find>login</find>
+      <find>loginAjax</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>$student_details</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/application/config/database.php" />
+        <option value="$PROJECT_DIR$/application/controllers/frontend/Login.php" />
+        <option value="$PROJECT_DIR$/application/config/constants.php" />
+        <option value="$PROJECT_DIR$/application/config/routes.php" />
+        <option value="$PROJECT_DIR$/application/views/backend/users/tutor-details.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Backendcommon.php" />
+        <option value="$PROJECT_DIR$/application/models/backend/User_model.php" />
+        <option value="$PROJECT_DIR$/assets/backend/js/script.js" />
+        <option value="$PROJECT_DIR$/application/controllers/backend/Login.php" />
+        <option value="$PROJECT_DIR$/application/controllers/backend/Users.php" />
+        <option value="$PROJECT_DIR$/application/views/backend/users/student-details.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="login" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="login" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="users" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omt" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hms" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b13cc834-1677-4d68-88dc-70647790ee6c" name="Default" comment="" />
+      <created>1524906719568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524906719568</updated>
+      <workItem from="1524906721069" duration="7441000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7441000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="25" column="63" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="25" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="53" column="52" lean-forward="true" selection-start-line="53" selection-start-column="52" selection-end-line="53" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="75" column="80" lean-forward="true" selection-start-line="75" selection-start-column="80" selection-end-line="75" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/frontend/login/sign-in.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/backend/js/login/login-5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/frontend/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="426" column="32" lean-forward="true" selection-start-line="426" selection-start-column="32" selection-end-line="426" selection-end-column="32" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/backend/Login_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="11" />
+          <folding>
+            <marker date="1499213776000" expanded="true" signature="331:500" ph="SELECT admin... admin" />
+            <marker date="1499213776000" expanded="true" signature="650:723" ph="SELECT * FRO... admin" />
+            <marker date="1499213776000" expanded="true" signature="870:943" ph="SELECT * FRO... admin" />
+            <marker date="1499213776000" expanded="true" signature="1151:1265" ph="UPDATE admin... " />
+            <marker date="1499213776000" expanded="true" signature="1376:1496" ph="UPDATE admin... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522904194000" expanded="false" signature="4052:4065" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Backendcommon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1955">
+          <caret line="193" column="17" lean-forward="true" selection-start-line="193" selection-start-column="17" selection-end-line="193" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/frontend/Profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="708" column="28" lean-forward="true" selection-start-line="708" selection-start-column="28" selection-end-line="708" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="381" column="58" lean-forward="true" selection-start-line="381" selection-start-column="58" selection-end-line="381" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/frontend/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="139" column="42" lean-forward="false" selection-start-line="139" selection-start-column="32" selection-end-line="139" selection-end-column="42" />
+          <folding>
+            <marker date="1522904208000" expanded="false" signature="4383:4396" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/backend/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="267" column="38" lean-forward="false" selection-start-line="267" selection-start-column="38" selection-end-line="267" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1524911878453" expanded="true" signature="22788:22816" ph="..." />
+            <marker date="1524911878453" expanded="true" signature="23084:23096" ph="..." />
+            <marker date="1524911878453" expanded="true" signature="23201:23210" ph="..." />
+            <marker date="1524911878453" expanded="true" signature="26885:26894" ph="..." />
+            <marker date="1524911878453" expanded="true" signature="28259:28268" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/frontend/User_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="66" column="4" lean-forward="true" selection-start-line="55" selection-start-column="4" selection-end-line="66" selection-end-column="4" />
+          <folding>
+            <marker date="1522719236000" expanded="true" signature="411:506" ph="SELECT id,em... users" />
+            <marker date="1522719236000" expanded="true" signature="696:785" ph="SELECT * FRO... users" />
+            <marker date="1522719236000" expanded="true" signature="988:1160" ph="SELECT users... users" />
+            <marker date="1522719236000" expanded="true" signature="1316:1548" ph="SELECT * FRO... users" />
+            <marker date="1522719236000" expanded="true" signature="2179:2285" ph="SELECT id,em... users" />
+            <marker date="1522719236000" expanded="true" signature="2492:2868" ph="INSERT INTO users" />
+            <marker date="1522719236000" expanded="true" signature="2982:3112" ph="UPDATE users... " />
+            <marker date="1522719236000" expanded="true" signature="3288:3392" ph="SELECT * FRO... tutor_badges" />
+            <marker date="1522719236000" expanded="true" signature="3666:3776" ph="SELECT * FRO... badges" />
+            <marker date="1522719236000" expanded="true" signature="4125:4526" ph="INSERT INTO users" />
+            <marker date="1522719236000" expanded="true" signature="4840:4931" ph="UPDATE users... " />
+            <marker date="1522719236000" expanded="true" signature="5092:5188" ph="SELECT * FRO... users" />
+            <marker date="1522719236000" expanded="true" signature="5355:5461" ph="SELECT email... users" />
+            <marker date="1522719236000" expanded="true" signature="5619:5739" ph="UPDATE users... " />
+            <marker date="1522719236000" expanded="true" signature="5854:5923" ph="SELECT email... admin" />
+            <marker date="1522719236000" expanded="true" signature="6104:6166" ph="SELECT * FRO... countries" />
+            <marker date="1522719236000" expanded="true" signature="6283:6322" ph="SELECT * FRO... languages" />
+            <marker date="1522719236000" expanded="true" signature="6516:6612" ph="UPDATE users... " />
+            <marker date="1522719236000" expanded="true" signature="6724:6839" ph="SELECT COUNT... lessons" />
+            <marker date="1522719236000" expanded="true" signature="7006:7124" ph="SELECT AVG(r... reviews" />
+            <marker date="1522719236000" expanded="true" signature="7323:7401" ph="SELECT * FRO... levels" />
+            <marker date="1522719236000" expanded="true" signature="7554:7675" ph="UPDATE tutor... " />
+            <marker date="1522719236000" expanded="true" signature="7740:7847" ph="INSERT INTO tutor_level" />
+            <marker date="1522719236000" expanded="true" signature="8711:8820" ph="SELECT * FRO... student_subjects" />
+            <marker date="1522719236000" expanded="true" signature="9506:9612" ph="SELECT name main_subjects" />
+            <marker date="1522719236000" expanded="true" signature="9823:9861" ph="SELECT * FRO... settings" />
+            <marker date="1522719236000" expanded="true" signature="10007:10045" ph="SELECT * FRO... settings" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/backend/User_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="243" column="0" lean-forward="false" selection-start-line="243" selection-start-column="0" selection-end-line="243" selection-end-column="0" />
+          <folding>
+            <marker date="1524918982984" expanded="true" signature="270:403" ph="SELECT users... users" />
+            <marker date="1524918982984" expanded="true" signature="515:878" ph="SELECT users... users" />
+            <marker date="1524918982984" expanded="true" signature="992:1105" ph="SELECT * FRO... users" />
+            <marker date="1524918982984" expanded="true" signature="1303:1481" ph="SELECT users... users" />
+            <marker date="1524918982984" expanded="true" signature="1612:1815" ph="SELECT tutor... tutor_details" />
+            <marker date="1524918982984" expanded="true" signature="1934:2006" ph="SELECT * FRO... levels" />
+            <marker date="1524918982984" expanded="true" signature="2143:2241" ph="SELECT * FRO... levels" />
+            <marker date="1524918982984" expanded="true" signature="2380:2465" ph="SELECT * FRO... admin" />
+            <marker date="1524918982984" expanded="true" signature="2600:2687" ph="SELECT COUNT... users" />
+            <marker date="1524918982984" expanded="true" signature="2820:2858" ph="SELECT * FRO... settings" />
+            <marker date="1524918982984" expanded="true" signature="3004:3042" ph="SELECT * FRO... settings" />
+            <marker date="1524918982984" expanded="true" signature="3171:3281" ph="SELECT * FRO... badges" />
+            <marker date="1524918982984" expanded="true" signature="3430:3795" ph="SELECT stude... student_subjects" />
+            <marker date="1524918982984" expanded="true" signature="4115:4314" ph="SELECT stude... student_subjects" />
+            <marker date="1524918982984" expanded="true" signature="4470:4821" ph="SELECT tutor... tutor_subjects" />
+            <marker date="1524918982984" expanded="true" signature="5182:5371" ph="SELECT tutor... tutor_subjects" />
+            <marker date="1524918982984" expanded="true" signature="5664:5896" ph="SELECT * FRO... users" />
+            <marker date="1524918982984" expanded="true" signature="6036:6387" ph="SELECT tutor... tutor_subjects" />
+            <marker date="1524918982984" expanded="true" signature="6707:6896" ph="SELECT tutor... tutor_subjects" />
+            <marker date="1524918982984" expanded="true" signature="7169:7401" ph="UPDATE admin... " />
+            <marker date="1524918982984" expanded="true" signature="7515:7632" ph="UPDATE admin... " />
+            <marker date="1524918982984" expanded="true" signature="7739:7851" ph="SELECT * FRO... tutor_payment_details" />
+            <marker date="1524918982984" expanded="true" signature="7994:8098" ph="SELECT * FRO... tutor_badges" />
+            <marker date="1524918982984" expanded="true" signature="8409:8527" ph="UPDATE users... " />
+            <marker date="1524918982984" expanded="true" signature="8631:8751" ph="UPDATE users... " />
+            <marker date="1524918982984" expanded="true" signature="8882:9002" ph="UPDATE users... " />
+            <marker date="1524918982984" expanded="true" signature="9131:9264" ph="UPDATE tutor... " />
+            <marker date="1524918982984" expanded="true" signature="9397:9439" ph="DELETE FROM " />
+            <marker date="1524918982984" expanded="true" signature="9572:9696" ph="INSERT INTO tutor_badges" />
+            <marker date="1524918982984" expanded="true" signature="9831:9937" ph="UPDATE setti... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/backend/users/tutor-details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="106" column="96" lean-forward="true" selection-start-line="106" selection-start-column="96" selection-end-line="106" selection-end-column="96" />
+          <folding>
+            <marker date="1524911802993" expanded="true" signature="8706:8915" ph="..." />
+            <marker date="1524911802993" expanded="true" signature="8729:8915" ph="..." />
+            <marker date="1524911802993" expanded="true" signature="9119:9303" ph="..." />
+            <marker date="1524911802993" expanded="true" signature="11124:11333" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/backend/users/student-details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="38" column="131" lean-forward="false" selection-start-line="38" selection-start-column="131" selection-end-line="38" selection-end-column="131" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/backend/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+          <folding>
+            <marker date="1524919105994" expanded="false" signature="4497:4510" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/backend/Users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="298" column="17" lean-forward="true" selection-start-line="298" selection-start-column="17" selection-end-line="298" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

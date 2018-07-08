@@ -1,0 +1,29 @@
+.modal-button{
+    background-color: #41ad49 !important;
+    border-color: #41ad49 !important;	
+}
+.page-sidebar-menu li.sidebar-active-menu, .page-sidebar-menu .open .sub-menu li.sidebar-active-menu{
+	background: #2C3542;
+    color: #b4bcc8;
+}
+.ribbon-right .rating-xs {
+    font-size: inherit !important;
+}
+.page-sidebar .page-sidebar-menu>li.switcher-li{
+	margin-top: 50px;
+    text-align: center;
+}
+.bootstrap-switch.bootstrap-switch-wrapper{
+    font-size: 14px;
+    font-weight: 300;
+    border: none;
+    margin: 0 auto;
+}
+.switcher-li .help-text-switch{
+	margin-top: 10px;
+    color: #fff;
+}
+.bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary, .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary {
+    color: #fff;
+    background: #41ad49;
+}

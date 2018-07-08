@@ -1,0 +1,457 @@
+[18-May-2017 11:05:49 Asia/Karachi] PHP Fatal error:  Call to a member function query() on boolean in /home/fattehhaider/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 264
+[18-May-2017 11:05:49 Asia/Karachi] PHP Fatal error:  Call to a member function query() on boolean in /home/fattehhaider/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 264
+[30-May-2017 16:07:18 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/fattehhaider/public_html/application/controllers/frontend/Lessons.php on line 197
+[30-May-2017 16:08:09 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/fattehhaider/public_html/application/controllers/frontend/Lessons.php on line 197
+[30-May-2017 16:08:16 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/fattehhaider/public_html/application/controllers/frontend/Lessons.php on line 197
+[01-Jun-2017 14:42:38 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 73
+[01-Jun-2017 14:43:24 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/fattehhaider/public_html/application/controllers/frontend/Search.php on line 1
+[02-Jun-2017 15:43:04 Asia/Karachi] PHP Parse error:  syntax error, unexpected '.' in /home/fattehhaider/public_html/application/controllers/frontend/Search.php on line 186
+[02-Jun-2017 16:05:15 Asia/Karachi] PHP Fatal error:  Call to undefined method Login::resend_confirm_url() in /home/fattehhaider/public_html/application/controllers/Common.php on line 112
+[07-Jun-2017 17:05:49 Asia/Karachi] PHP Warning:  Unterminated comment starting line 132 in /home/fattehhaider/public_html/application/controllers/backend/Payments.php on line 132
+[07-Jun-2017 17:05:49 Asia/Karachi] PHP Parse error:  syntax error, unexpected 't' (T_STRING), expecting function (T_FUNCTION) in /home/fattehhaider/public_html/application/controllers/backend/Payments.php on line 136
+[07-Jun-2017 17:17:24 Asia/Karachi] PHP Parse error:  syntax error, unexpected ''c' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/fattehhaider/public_html/application/controllers/backend/Payments.php on line 71
+[09-Jun-2017 11:02:22 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')' in /home/fattehhaider/public_html/application/views/backend/payments/admin-payments.php on line 31
+[09-Jun-2017 11:08:51 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/fattehhaider/public_html/application/views/backend/lessons/lesson-details.php on line 121
+[09-Jun-2017 11:16:24 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/backend/Lesson_model.php on line 155
+[09-Jun-2017 11:16:26 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/backend/Lesson_model.php on line 155
+[03-Jul-2017 12:49:51 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/backend/User_model.php on line 41
+[03-Jul-2017 12:51:41 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/backend/User_model.php on line 41
+[03-Jul-2017 13:15:44 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/backend/User_model.php on line 41
+[03-Jul-2017 13:16:12 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/backend/User_model.php on line 41
+[03-Jul-2017 13:17:08 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/backend/User_model.php on line 41
+[10-Jul-2017 11:16:52 Asia/Karachi] PHP Fatal error:  Call to undefined method User_model::getTutorBadges() in /home/fattehhaider/public_html/application/controllers/backend/Users.php on line 253
+[12-Jul-2017 11:47:26 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home/fattehhaider/public_html/application/models/frontend/Profile_model.php on line 111
+[12-Jul-2017 11:47:26 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home/fattehhaider/public_html/application/models/frontend/Profile_model.php on line 111
+[12-Jul-2017 11:47:26 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/fattehhaider/public_html/application/models/frontend/Profile_model.php on line 276
+[24-Jul-2017 10:40:05 Asia/Karachi] PHP Fatal error:  Call to a member function row_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Payment_model.php on line 32
+[24-Jul-2017 11:08:21 Asia/Karachi] PHP Fatal error:  Call to a member function row_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Payment_model.php on line 32
+[24-Jul-2017 14:38:49 Asia/Karachi] PHP Fatal error:  Call to a member function row_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Payment_model.php on line 32
+[24-Jul-2017 14:39:27 Asia/Karachi] PHP Fatal error:  Call to a member function row_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Payment_model.php on line 32
+[24-Jul-2017 14:39:32 Asia/Karachi] PHP Fatal error:  Call to a member function row_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Payment_model.php on line 32
+[27-Jul-2017 06:57:02 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[27-Jul-2017 06:57:04 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[27-Jul-2017 06:57:04 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[27-Jul-2017 06:57:05 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[27-Jul-2017 06:58:29 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[27-Jul-2017 06:58:29 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[27-Jul-2017 06:58:30 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[27-Jul-2017 06:58:33 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[27-Jul-2017 06:58:33 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[27-Jul-2017 06:58:34 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[27-Jul-2017 06:58:35 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[27-Jul-2017 06:58:35 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[27-Jul-2017 06:58:57 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[27-Jul-2017 06:58:58 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[27-Jul-2017 06:58:59 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[27-Jul-2017 06:59:01 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[27-Jul-2017 07:05:11 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[27-Jul-2017 07:05:12 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[27-Jul-2017 10:43:55 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/fattehhaider/public_html/application/models/frontend/Profile_model.php on line 275
+[27-Jul-2017 10:43:55 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/fattehhaider/public_html/application/models/frontend/Profile_model.php on line 275
+[27-Jul-2017 10:43:56 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/fattehhaider/public_html/application/models/frontend/Profile_model.php on line 400
+[27-Jul-2017 10:48:19 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/frontend/Profile.php on line 518
+[27-Jul-2017 10:57:56 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/fattehhaider/public_html/application/views/frontend/profile/tutor-public-profile.php on line 172
+[27-Jul-2017 15:19:06 Asia/Karachi] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/fattehhaider/public_html/application/controllers/backend/Pages.php on line 167
+[27-Jul-2017 15:33:01 Asia/Karachi] PHP Fatal error:  Cannot redeclare Page_model::changeSettings() in /home/fattehhaider/public_html/application/models/backend/Page_model.php on line 112
+[27-Jul-2017 15:33:04 Asia/Karachi] PHP Fatal error:  Cannot redeclare Page_model::changeSettings() in /home/fattehhaider/public_html/application/models/backend/Page_model.php on line 112
+[27-Jul-2017 15:33:06 Asia/Karachi] PHP Fatal error:  Cannot redeclare Page_model::changeSettings() in /home/fattehhaider/public_html/application/models/backend/Page_model.php on line 112
+[27-Jul-2017 15:33:21 Asia/Karachi] PHP Fatal error:  Cannot redeclare Page_model::changeSettings() in /home/fattehhaider/public_html/application/models/backend/Page_model.php on line 112
+[27-Jul-2017 15:33:25 Asia/Karachi] PHP Fatal error:  Cannot redeclare Page_model::changeSettings() in /home/fattehhaider/public_html/application/models/backend/Page_model.php on line 112
+[27-Jul-2017 15:33:34 Asia/Karachi] PHP Fatal error:  Cannot redeclare Page_model::changeSettings() in /home/fattehhaider/public_html/application/models/backend/Page_model.php on line 112
+[27-Jul-2017 15:33:36 Asia/Karachi] PHP Fatal error:  Cannot redeclare Page_model::changeSettings() in /home/fattehhaider/public_html/application/models/backend/Page_model.php on line 112
+[27-Jul-2017 15:33:41 Asia/Karachi] PHP Fatal error:  Cannot redeclare Page_model::changeSettings() in /home/fattehhaider/public_html/application/models/backend/Page_model.php on line 112
+[27-Jul-2017 15:33:42 Asia/Karachi] PHP Fatal error:  Cannot redeclare Page_model::changeSettings() in /home/fattehhaider/public_html/application/models/backend/Page_model.php on line 112
+[27-Jul-2017 15:33:45 Asia/Karachi] PHP Fatal error:  Cannot redeclare Page_model::changeSettings() in /home/fattehhaider/public_html/application/models/backend/Page_model.php on line 112
+[27-Jul-2017 15:33:47 Asia/Karachi] PHP Fatal error:  Cannot redeclare Page_model::changeSettings() in /home/fattehhaider/public_html/application/models/backend/Page_model.php on line 112
+[27-Jul-2017 15:34:07 Asia/Karachi] PHP Fatal error:  Cannot redeclare Page_model::changeSettings() in /home/fattehhaider/public_html/application/models/backend/Page_model.php on line 112
+[01-Aug-2017 18:27:05 Asia/Karachi] PHP Fatal error:  Call to a member function row_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Payment_model.php on line 32
+[02-Aug-2017 13:39:12 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/fattehhaider/public_html/application/views/frontend/profile/tutor-public-profile.php on line 300
+[02-Aug-2017 13:42:45 Asia/Karachi] PHP Parse error:  syntax error, unexpected '"_blank"' (T_CONSTANT_ENCAPSED_STRING) in /home/fattehhaider/public_html/application/views/frontend/profile/tutor-public-profile.php on line 170
+[02-Aug-2017 13:45:16 Asia/Karachi] PHP Parse error:  syntax error, unexpected '"_blank"' (T_CONSTANT_ENCAPSED_STRING) in /home/fattehhaider/public_html/application/views/frontend/profile/tutor-public-profile.php on line 170
+[02-Aug-2017 13:45:43 Asia/Karachi] PHP Parse error:  syntax error, unexpected ''"_blank"'' (T_CONSTANT_ENCAPSED_STRING) in /home/fattehhaider/public_html/application/views/frontend/profile/tutor-public-profile.php on line 170
+[02-Aug-2017 13:58:41 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/fattehhaider/public_html/application/views/frontend/profile/tutor-public-profile.php on line 173
+[02-Aug-2017 14:09:46 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/fattehhaider/public_html/application/views/frontend/profile/tutor-public-profile.php on line 570
+[02-Aug-2017 14:53:05 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/fattehhaider/public_html/application/views/frontend/profile/tutor-public-profile.php on line 492
+[02-Aug-2017 14:56:38 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/fattehhaider/public_html/application/views/frontend/profile/tutor-public-profile.php on line 168
+[02-Aug-2017 14:56:41 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/fattehhaider/public_html/application/views/frontend/profile/tutor-public-profile.php on line 657
+[02-Aug-2017 16:12:57 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/fattehhaider/public_html/application/views/backend/users/tutors.php on line 83
+[02-Aug-2017 16:13:17 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/fattehhaider/public_html/application/views/backend/users/tutors.php on line 102
+[02-Aug-2017 16:56:57 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/fattehhaider/public_html/application/views/frontend/profile/tutor-public-profile.php on line 538
+[02-Aug-2017 17:54:38 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/fattehhaider/public_html/application/views/frontend/profile/tutor-public-profile.php on line 59
+[03-Aug-2017 18:37:39 Asia/Karachi] PHP Fatal error:  Call to a member function row_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Payment_model.php on line 32
+[07-Aug-2017 17:40:00 Asia/Karachi] PHP Fatal error:  Call to a member function row_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Payment_model.php on line 32
+[07-Aug-2017 20:16:33 Asia/Karachi] PHP Fatal error:  Call to a member function query() on boolean in /home/fattehhaider/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 264
+[07-Aug-2017 20:16:33 Asia/Karachi] PHP Fatal error:  Call to a member function query() on boolean in /home/fattehhaider/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 264
+[25-Aug-2017 13:41:35 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/fattehhaider/public_html/application/controllers/frontend/Search.php on line 289
+[25-Aug-2017 17:10:49 Asia/Karachi] PHP Parse error:  syntax error, unexpected ':' in /home/fattehhaider/public_html/application/controllers/frontend/Search.php on line 288
+[01-Sep-2017 13:25:38 Asia/Karachi] PHP Fatal error:  Call to a member function row_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Payment_model.php on line 32
+[01-Sep-2017 13:25:41 Asia/Karachi] PHP Fatal error:  Call to a member function row_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Payment_model.php on line 32
+[02-Sep-2017 01:58:55 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 01:58:58 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[02-Sep-2017 01:58:58 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[02-Sep-2017 01:59:00 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[02-Sep-2017 01:59:01 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[02-Sep-2017 01:59:02 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[02-Sep-2017 01:59:09 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 01:59:11 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 01:59:19 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 01:59:20 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 01:59:20 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 01:59:24 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[02-Sep-2017 01:59:24 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[02-Sep-2017 01:59:25 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[02-Sep-2017 01:59:45 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 01:59:47 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 01:59:48 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 02:00:40 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 05:15:15 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 05:15:17 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 05:15:18 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 05:15:19 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 05:15:19 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 05:15:47 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 05:15:51 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 158
+[02-Sep-2017 08:31:44 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 08:37:36 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 08:38:26 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 08:38:43 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 08:38:48 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 08:38:57 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 08:38:57 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 08:38:59 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 08:39:00 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 08:39:14 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 08:39:15 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 08:39:17 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 08:39:18 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 08:39:19 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 08:39:20 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 10:09:51 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 10:09:53 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 10:09:54 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 10:09:55 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 10:09:55 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 10:09:56 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 10:10:00 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[02-Sep-2017 10:10:06 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[03-Sep-2017 06:25:40 Asia/Karachi] PHP Parse error:  syntax error, unexpected '"' (T_CONSTANT_ENCAPSED_STRING) in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 33
+[03-Sep-2017 06:25:40 Asia/Karachi] PHP Parse error:  syntax error, unexpected '"' (T_CONSTANT_ENCAPSED_STRING) in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 33
+[03-Sep-2017 06:26:18 Asia/Karachi] PHP Parse error:  syntax error, unexpected '"' (T_CONSTANT_ENCAPSED_STRING) in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 32
+[03-Sep-2017 06:26:18 Asia/Karachi] PHP Parse error:  syntax error, unexpected '"' (T_CONSTANT_ENCAPSED_STRING) in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 32
+[03-Sep-2017 06:26:21 Asia/Karachi] PHP Parse error:  syntax error, unexpected '"' (T_CONSTANT_ENCAPSED_STRING) in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 32
+[03-Sep-2017 06:26:21 Asia/Karachi] PHP Parse error:  syntax error, unexpected '"' (T_CONSTANT_ENCAPSED_STRING) in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 32
+[03-Sep-2017 06:28:15 Asia/Karachi] PHP Parse error:  syntax error, unexpected '"' (T_CONSTANT_ENCAPSED_STRING) in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 31
+[03-Sep-2017 06:28:15 Asia/Karachi] PHP Parse error:  syntax error, unexpected '"' (T_CONSTANT_ENCAPSED_STRING) in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 31
+[03-Sep-2017 06:28:33 Asia/Karachi] PHP Parse error:  syntax error, unexpected '"' (T_CONSTANT_ENCAPSED_STRING) in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 31
+[03-Sep-2017 06:28:33 Asia/Karachi] PHP Parse error:  syntax error, unexpected '"' (T_CONSTANT_ENCAPSED_STRING) in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 31
+[03-Sep-2017 07:34:11 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[03-Sep-2017 07:34:16 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[03-Sep-2017 07:34:19 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[03-Sep-2017 07:34:21 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[03-Sep-2017 07:34:48 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[03-Sep-2017 07:34:52 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[03-Sep-2017 07:35:06 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[03-Sep-2017 07:35:07 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[03-Sep-2017 07:35:08 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[03-Sep-2017 07:35:09 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[03-Sep-2017 07:35:09 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[03-Sep-2017 07:35:10 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[03-Sep-2017 07:35:10 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[03-Sep-2017 07:35:11 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[03-Sep-2017 07:35:12 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[03-Sep-2017 07:35:14 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 176
+[06-Sep-2017 15:32:57 Asia/Karachi] PHP Parse error:  syntax error, unexpected '?>' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 271
+[08-Sep-2017 15:12:31 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[08-Sep-2017 15:12:42 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[08-Sep-2017 15:13:36 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[08-Sep-2017 15:14:08 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 81
+[08-Sep-2017 15:17:53 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 126
+[08-Sep-2017 15:18:15 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 125
+[08-Sep-2017 15:42:41 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[08-Sep-2017 15:43:36 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[08-Sep-2017 15:51:21 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 81
+[08-Sep-2017 15:52:43 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[08-Sep-2017 15:53:03 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 43
+[08-Sep-2017 15:53:08 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 125
+[08-Sep-2017 17:03:41 Asia/Karachi] PHP Parse error:  syntax error, unexpected '{' in /home/fattehhaider/public_html/application/controllers/frontend/Search.php on line 227
+[08-Sep-2017 17:47:18 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/fattehhaider/public_html/application/views/backend/users/tutors.php on line 120
+[11-Sep-2017 05:12:18 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 190
+[11-Sep-2017 05:20:32 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 271
+[11-Sep-2017 05:22:41 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 271
+[11-Sep-2017 05:23:07 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 271
+[11-Sep-2017 05:25:27 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 271
+[11-Sep-2017 05:26:05 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 271
+[11-Sep-2017 05:26:07 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 271
+[11-Sep-2017 05:31:16 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 271
+[11-Sep-2017 05:31:52 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 271
+[11-Sep-2017 05:36:05 Asia/Karachi] PHP Parse error:  syntax error, unexpected '{' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 272
+[11-Sep-2017 05:36:45 Asia/Karachi] PHP Parse error:  syntax error, unexpected '{' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 272
+[11-Sep-2017 05:49:16 Asia/Karachi] PHP Parse error:  syntax error, unexpected '{' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 272
+[11-Sep-2017 06:02:30 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 190
+[11-Sep-2017 06:16:03 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 190
+[11-Sep-2017 06:16:03 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 190
+[11-Sep-2017 06:16:04 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 190
+[11-Sep-2017 06:16:05 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 172
+[12-Sep-2017 16:47:44 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 317
+[12-Sep-2017 17:24:29 Asia/Karachi] PHP Fatal error:  Call to a member function script() on null in /home/fattehhaider/public_html/application/controllers/frontend/Search.php on line 93
+[12-Sep-2017 17:25:19 Asia/Karachi] PHP Fatal error:  Call to a member function script() on null in /home/fattehhaider/public_html/application/controllers/frontend/Search.php on line 93
+[12-Sep-2017 17:40:53 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Message_model.php on line 120
+[12-Sep-2017 17:42:09 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Message_model.php on line 121
+[12-Sep-2017 19:07:33 Asia/Karachi] PHP Parse error:  syntax error, unexpected '"</i><br><>Please click on the' (T_CONSTANT_ENCAPSED_STRING) in /home/fattehhaider/public_html/application/controllers/frontend/Search.php on line 74
+[12-Sep-2017 19:46:51 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/fattehhaider/public_html/application/controllers/frontend/Profile.php on line 345
+[12-Sep-2017 19:47:43 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Message_model.php on line 146
+[12-Sep-2017 19:51:05 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Message_model.php on line 146
+[19-Sep-2017 11:20:46 Asia/Karachi] PHP Parse error:  syntax error, unexpected ']' in /home/fattehhaider/public_html/application/models/backend/User_model.php on line 216
+[20-Sep-2017 11:27:36 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/backend/User_model.php on line 42
+[25-Sep-2017 11:53:11 Asia/Karachi] PHP Parse error:  syntax error, unexpected ''$("#loginForm .errorMsg").htm' (T_ENCAPSED_AND_WHITESPACE) in /home/fattehhaider/public_html/application/controllers/frontend/Login.php on line 140
+[26-Sep-2017 12:10:55 Asia/Karachi] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/fattehhaider/public_html/application/helpers/common_helper.php on line 341
+[26-Sep-2017 12:10:56 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/fattehhaider/public_html/application/helpers/common_helper.php on line 341
+[26-Sep-2017 12:15:23 Asia/Karachi] PHP Parse error:  syntax error, unexpected ''hosting ' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/fattehhaider/public_html/application/helpers/common_helper.php on line 341
+[26-Sep-2017 12:27:14 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/fattehhaider/public_html/application/helpers/common_helper.php on line 205
+[26-Sep-2017 12:27:15 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/fattehhaider/public_html/application/helpers/common_helper.php on line 205
+[26-Sep-2017 12:27:25 Asia/Karachi] PHP Fatal error:  Call to undefined function strposa() in /home/fattehhaider/public_html/application/helpers/common_helper.php on line 520
+[26-Sep-2017 12:56:07 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/fattehhaider/public_html/application/helpers/common_helper.php on line 214
+[26-Sep-2017 12:56:08 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/fattehhaider/public_html/application/helpers/common_helper.php on line 214
+[26-Sep-2017 13:03:10 Asia/Karachi] PHP Fatal error:  Call to undefined function dateDiff_ago() in /home/fattehhaider/public_html/application/views/frontend/message/message-history.php on line 95
+[26-Sep-2017 13:03:20 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/fattehhaider/public_html/application/helpers/common_helper.php on line 216
+[26-Sep-2017 13:03:21 Asia/Karachi] PHP Parse error:  syntax error, unexpected ''excel_import/php-excel-reader' (T_ENCAPSED_AND_WHITESPACE) in /home/fattehhaider/public_html/application/helpers/common_helper.php on line 435
+[26-Sep-2017 13:03:23 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/fattehhaider/public_html/application/helpers/common_helper.php on line 496
+[26-Sep-2017 13:03:23 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/fattehhaider/public_html/application/helpers/common_helper.php on line 496
+[08-Oct-2017 19:33:45 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 190
+[09-Oct-2017 12:21:27 Asia/Karachi] PHP Parse error:  syntax error, unexpected '?>' in /home/fattehhaider/public_html/application/views/frontend/elements/header.php on line 103
+[09-Oct-2017 12:21:55 Asia/Karachi] PHP Parse error:  syntax error, unexpected '?>' in /home/fattehhaider/public_html/application/views/frontend/elements/header.php on line 103
+[09-Oct-2017 13:00:39 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/fattehhaider/public_html/application/views/frontend/pages/browse-areas.php on line 31
+[09-Oct-2017 13:29:42 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/fattehhaider/public_html/application/controllers/frontend/Search.php on line 351
+[09-Oct-2017 13:35:08 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/fattehhaider/public_html/application/controllers/frontend/Search.php on line 32
+[09-Oct-2017 14:09:08 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/fattehhaider/public_html/application/views/frontend/profile/index.php on line 110
+[16-Oct-2017 13:20:40 Asia/Karachi] PHP Parse error:  syntax error, unexpected '=' in /home/fattehhaider/public_html/application/controllers/frontend/Login.php on line 60
+[16-Oct-2017 13:21:25 Asia/Karachi] PHP Parse error:  syntax error, unexpected '=' in /home/fattehhaider/public_html/application/controllers/frontend/Login.php on line 60
+[16-Oct-2017 13:21:36 Asia/Karachi] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/fattehhaider/public_html/application/controllers/frontend/Login.php on line 60
+[29-Oct-2017 22:43:16 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[28-Nov-2017 20:59:37 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:31 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:31 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:31 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:31 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:32 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:32 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:32 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:32 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:33 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:33 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:33 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:33 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:34 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:34 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:34 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:34 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:35 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:36 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:36 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:36 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:36 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:37 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:37 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:37 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:37 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:38 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:38 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:38 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:38 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:38 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:39 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:39 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:39 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:39 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:39 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:40 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:40 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:40 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:40 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:40 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:41 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:41 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:41 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:41 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:41 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:42 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:42 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:42 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:42 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:42 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:43 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:43 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:43 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:43 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:44 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:44 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:44 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:44 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:44 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:45 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:45 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:45 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:45 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:45 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:46 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:46 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:46 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:46 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:47 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:47 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[04-Feb-2018 07:47:47 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[07-Feb-2018 20:04:38 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[08-Feb-2018 11:33:11 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[09-Feb-2018 01:10:10 Asia/Karachi] PHP Fatal error:  Call to a member function getAdmins() on null in /home/fattehhaider/public_html/application/controllers/backend/Users.php on line 291
+[09-Feb-2018 01:19:36 Asia/Karachi] PHP Fatal error:  Call to a member function getAdmins() on null in /home/fattehhaider/public_html/application/controllers/backend/Admins.php on line 198
+[09-Feb-2018 22:44:06 Asia/Karachi] PHP Fatal error:  Cannot use object of type Admin_model as array in /home/fattehhaider/public_html/application/controllers/backend/Admins.php on line 223
+[09-Feb-2018 22:54:01 Asia/Karachi] PHP Fatal error:  Cannot use object of type Admin_model as array in /home/fattehhaider/public_html/application/controllers/backend/Admins.php on line 223
+[09-Feb-2018 23:33:34 Asia/Karachi] PHP Fatal error:  Call to undefined method Admins::changeUserStatusAjax() in /home/fattehhaider/public_html/application/controllers/Backendcommon.php on line 57
+[17-Feb-2018 02:05:24 Asia/Karachi] PHP Fatal error:  Call to a member function row_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 351
+[17-Feb-2018 02:05:24 Asia/Karachi] PHP Fatal error:  Call to a member function row_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 351
+[17-Feb-2018 02:05:24 Asia/Karachi] PHP Fatal error:  Call to a member function row_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 351
+[18-Feb-2018 22:54:37 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[27-Feb-2018 22:45:56 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[06-Mar-2018 01:06:24 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/backend/User_model.php on line 53
+[06-Mar-2018 01:06:25 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/backend/User_model.php on line 53
+[06-Mar-2018 01:06:33 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/backend/User_model.php on line 53
+[06-Mar-2018 01:06:34 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/backend/User_model.php on line 53
+[06-Mar-2018 01:06:55 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/backend/User_model.php on line 53
+[06-Mar-2018 01:06:56 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/backend/User_model.php on line 53
+[06-Mar-2018 18:05:12 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/backend/User_model.php on line 53
+[06-Mar-2018 18:05:13 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/backend/User_model.php on line 53
+[06-Mar-2018 18:05:18 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/backend/User_model.php on line 53
+[06-Mar-2018 18:16:27 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/backend/User_model.php on line 53
+[06-Mar-2018 18:16:27 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/backend/User_model.php on line 53
+[06-Mar-2018 18:16:35 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/backend/User_model.php on line 53
+[06-Mar-2018 18:16:36 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/backend/User_model.php on line 53
+[06-Mar-2018 18:28:03 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/backend/User_model.php on line 54
+[06-Mar-2018 18:28:04 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/backend/User_model.php on line 54
+[06-Mar-2018 19:42:33 Asia/Karachi] PHP Parse error:  syntax error, unexpected '<' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 224
+[06-Mar-2018 19:43:39 Asia/Karachi] PHP Parse error:  syntax error, unexpected '<' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 224
+[06-Mar-2018 19:53:39 Asia/Karachi] PHP Parse error:  syntax error, unexpected '<' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 224
+[06-Mar-2018 20:08:01 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 243
+[06-Mar-2018 20:08:43 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 243
+[06-Mar-2018 20:50:06 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 181
+[06-Mar-2018 21:12:10 Asia/Karachi] PHP Parse error:  syntax error, unexpected '{' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 150
+[06-Mar-2018 21:13:10 Asia/Karachi] PHP Parse error:  syntax error, unexpected '{' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 150
+[06-Mar-2018 21:13:12 Asia/Karachi] PHP Parse error:  syntax error, unexpected '{' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 150
+[06-Mar-2018 21:13:13 Asia/Karachi] PHP Parse error:  syntax error, unexpected '{' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 150
+[06-Mar-2018 21:13:14 Asia/Karachi] PHP Parse error:  syntax error, unexpected '{' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 150
+[06-Mar-2018 21:13:25 Asia/Karachi] PHP Parse error:  syntax error, unexpected '{' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 150
+[06-Mar-2018 21:13:27 Asia/Karachi] PHP Parse error:  syntax error, unexpected '{' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 150
+[06-Mar-2018 21:13:28 Asia/Karachi] PHP Parse error:  syntax error, unexpected '{' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 150
+[06-Mar-2018 21:13:30 Asia/Karachi] PHP Parse error:  syntax error, unexpected '{' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 150
+[06-Mar-2018 21:13:30 Asia/Karachi] PHP Parse error:  syntax error, unexpected '{' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 150
+[06-Mar-2018 21:13:31 Asia/Karachi] PHP Parse error:  syntax error, unexpected '{' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 150
+[06-Mar-2018 21:13:59 Asia/Karachi] PHP Parse error:  syntax error, unexpected '{' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 150
+[06-Mar-2018 21:13:59 Asia/Karachi] PHP Parse error:  syntax error, unexpected '{' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 150
+[06-Mar-2018 21:17:19 Asia/Karachi] PHP Parse error:  syntax error, unexpected '{' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 150
+[06-Mar-2018 21:17:22 Asia/Karachi] PHP Parse error:  syntax error, unexpected '{' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 150
+[06-Mar-2018 21:17:23 Asia/Karachi] PHP Parse error:  syntax error, unexpected '{' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 150
+[06-Mar-2018 21:17:24 Asia/Karachi] PHP Parse error:  syntax error, unexpected '{' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 150
+[06-Mar-2018 21:56:09 Asia/Karachi] PHP Parse error:  syntax error, unexpected '{' in /home/fattehhaider/public_html/application/views/frontend/search/search-detail.php on line 81
+[22-Mar-2018 19:09:12 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[22-Mar-2018 19:20:32 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[22-Mar-2018 20:27:55 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[22-Mar-2018 20:29:59 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[22-Mar-2018 21:04:23 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[22-Mar-2018 21:06:45 Asia/Karachi] PHP Fatal error:  Call to a member function row_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 351
+[22-Mar-2018 21:06:50 Asia/Karachi] PHP Fatal error:  Call to a member function row_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 360
+[22-Mar-2018 21:08:56 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[22-Mar-2018 21:11:49 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[22-Mar-2018 21:12:49 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[27-Mar-2018 21:41:26 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$new_password_encrypted' (T_VARIABLE) in /home/fattehhaider/public_html/application/views/backend/users/students.php on line 45
+[27-Mar-2018 21:41:42 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$new_password_encrypted' (T_VARIABLE) in /home/fattehhaider/public_html/application/views/backend/users/students.php on line 45
+[27-Mar-2018 21:42:08 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$new_password_encrypted' (T_VARIABLE) in /home/fattehhaider/public_html/application/views/backend/users/students.php on line 45
+[27-Mar-2018 21:42:14 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$new_password_encrypted' (T_VARIABLE) in /home/fattehhaider/public_html/application/views/backend/users/students.php on line 45
+[03-Apr-2018 15:28:57 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'omt123456' (T_STRING) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 84
+[03-Apr-2018 15:28:58 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'omt123456' (T_STRING) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 84
+[03-Apr-2018 15:29:04 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'omt123456' (T_STRING) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 84
+[03-Apr-2018 15:29:12 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'omt123456' (T_STRING) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 84
+[03-Apr-2018 15:29:20 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'omt123456' (T_STRING) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 84
+[03-Apr-2018 15:29:33 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'omt123456' (T_STRING) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 84
+[03-Apr-2018 15:30:03 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'omt123456' (T_STRING) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 84
+[03-Apr-2018 15:30:06 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'omt123456' (T_STRING) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 84
+[03-Apr-2018 15:34:25 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'omt123456' (T_STRING) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 84
+[03-Apr-2018 15:34:27 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'omt123456' (T_STRING) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 84
+[03-Apr-2018 15:36:37 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'omt123456' (T_STRING) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 84
+[03-Apr-2018 15:36:41 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'omt123456' (T_STRING) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 84
+[03-Apr-2018 15:36:42 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'omt123456' (T_STRING) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 84
+[03-Apr-2018 15:36:44 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'omt123456' (T_STRING) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 84
+[03-Apr-2018 15:37:25 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'omt123456' (T_STRING) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 84
+[03-Apr-2018 15:37:25 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'omt123456' (T_STRING) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 84
+[03-Apr-2018 15:39:58 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Saifullah24' (T_STRING) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 84
+[03-Apr-2018 15:39:58 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Saifullah24' (T_STRING) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 84
+[03-Apr-2018 15:40:01 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Saifullah24' (T_STRING) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 84
+[03-Apr-2018 15:40:02 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Saifullah24' (T_STRING) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 84
+[03-Apr-2018 15:40:50 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Saifullah24' (T_STRING) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 84
+[03-Apr-2018 15:40:50 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'Saifullah24' (T_STRING) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 84
+[03-Apr-2018 18:17:11 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 69
+[03-Apr-2018 18:17:12 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 69
+[03-Apr-2018 18:17:13 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 69
+[03-Apr-2018 18:17:14 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 69
+[03-Apr-2018 18:31:14 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 92
+[03-Apr-2018 18:31:15 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 92
+[03-Apr-2018 18:31:17 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 92
+[03-Apr-2018 18:31:17 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 92
+[03-Apr-2018 18:31:21 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 92
+[03-Apr-2018 18:31:21 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 92
+[03-Apr-2018 18:32:02 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 92
+[03-Apr-2018 18:32:02 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 92
+[03-Apr-2018 18:32:04 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 92
+[03-Apr-2018 18:32:04 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 92
+[03-Apr-2018 18:32:18 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 92
+[03-Apr-2018 18:32:18 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 92
+[03-Apr-2018 18:33:15 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 92
+[03-Apr-2018 18:33:15 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/fattehhaider/public_html/application/models/frontend/User_model.php on line 92
+[04-Apr-2018 22:47:14 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 22:47:15 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 22:47:53 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 22:47:53 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 22:47:58 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 22:47:58 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 22:47:59 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 22:47:59 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 22:48:05 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 22:48:06 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 22:48:06 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 22:48:06 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 22:48:06 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 22:48:06 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 22:48:29 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 22:48:30 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 22:48:30 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 22:48:31 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 22:48:31 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 22:48:33 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 22:48:34 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 22:48:35 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 23:20:36 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 23:20:37 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 23:20:43 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 23:20:44 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 23:21:48 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 23:21:49 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 23:21:53 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 23:21:54 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 23:22:23 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 23:22:23 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 23:22:25 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 23:22:25 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 23:22:26 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 23:22:26 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 23:23:18 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 23:23:21 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 23:23:22 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 23:23:22 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 23:23:47 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 23:23:47 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 23:23:47 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 23:23:49 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 23:23:50 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 23:23:50 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 23:24:08 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[04-Apr-2018 23:24:08 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/fattehhaider/public_html/application/controllers/Common.php on line 113
+[07-Apr-2018 01:06:33 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
+[08-Apr-2018 01:41:58 Asia/Karachi] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fattehhaider/public_html/application/models/frontend/Search_model.php on line 80
